@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Quiz APP</string>
+
+    <!--Tittle of quiz goes here -->
+    <string name="tittle">Brain Storming Session=> Android dev</string>
+
+
+    <!--Questions strings go here -->
+    <string name="Question1">1.Which language is used in creating layouts in Android Studio or in general android development?</string>
+    <string name="Question2">2.Which of the following is not a project file in Android Studio work environment?</string>
+    <string name="Question3">3.Which of the following is/are correct according to the variable naming conventions?</string>
+    <string name="Question4">4.Which of the following is the correct way of creating java objects?</string>
+
+    <!--Answer options string go here-->
+    <string name="Activity.xml">Activity.xml</string>
+    <string name="Translation.xml">Translation.xml</string>
+    <string name="MainActivity.xml">MainActivity.xml</string>
+    <string name="Styles.xml">Styles.xml</string>
+    <string name="intDatapassed">int Datapassed = 79;</string>
+    <string name="stringourCompanyName">string our Company Name = companyName(); </string>
+    <string name="intdisplayQuantity">int displayQuantity = 2;</string>
+    <string name="StringnameOfQualifiedStaff">String nameOfQualifiedStaff = staffName();</string>
+    <string name="rightAnswer">TextView orderSummaryTextView = (TextView) findViewById(R.id.order_summary_text_view);</string>
+    <string name="first">TextView quantityTextView = findViewById(R.id.quantity_text_view);</string>
+    <string name="second">TextView priceTextView = (Text) findViewById(R.id.price_text_view);</string>
+    <string name="third">TextView quantityTextView = (View) findViewById(R.id.quantity_text_view);</string>
+
+    <!--Button string text goes here-->
+    <string name="buttonText">Submit</string>
+
+
+</resources>
+
