@@ -1,5 +1,5 @@
 # QuizAPP1
-This is my quizz app. its on googledrive as well, here is the link 
+This is my quizz app. it is on googledrive as well, here is the link 
 
 https://drive.google.com/file/d/1SSWOjuRK1qHz16KL6VVhGLOFQkQ5my98/view?usp=sharing
 
