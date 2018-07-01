@@ -1,7 +1,7 @@
 # QuizAPP1
-This is my quizz app. it is on googledrive as well, here is the link 
+This is my quizz app. Apk is googledrive, here is the link 
 
-https://drive.google.com/file/d/1SSWOjuRK1qHz16KL6VVhGLOFQkQ5my98/view?usp=sharing
+https://drive.google.com/file/d/1MKBN2eZ8ywx351CC31nMxZZM30OsRtyL/view?usp=sharing
 
 The app shows a quizz of 4 questions about Android development basics
 
